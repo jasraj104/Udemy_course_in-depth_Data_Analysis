@@ -5,7 +5,7 @@ This project analyzes Udemy course data to uncover key trends and insights relat
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 Online learning platforms like Udemy host thousands of courses, but not all perform equally in terms of enrollments, ratings, and popularity.  
 This project aims to answer the following questions:
 1. What factors influence course popularity and enrollment?
@@ -16,7 +16,7 @@ This project aims to answer the following questions:
 
 ---
 
-## 🧰 Tools and Technologies Used
+## Tools and Technologies Used
 - **Programming Language:** Python  
 - **Libraries:** pandas, numpy, matplotlib, seaborn, plotly  
 - **IDE / Environment:** Jupyter Notebook / Google Colab  
@@ -25,15 +25,14 @@ This project aims to answer the following questions:
 
 ---
 
-## 📂 Dataset Used
+##  Dataset Used
 - **Dataset Name:** Udemy Courses Dataset  
 - **Description:** Contains data about Udemy courses including course title, subject, price, number of subscribers, number of reviews, content duration, and published timestamp.  
-- **Source:** [Kaggle - Udemy Courses Dataset](https://www.kaggle.com/learn-ai-better/udemy-courses)  
 
 ---
 
-## 🔧 Steps in the Project
-1. **Data Collection:** Importing the dataset from Kaggle.  
+## Steps in the Project
+1. **Data Collection:** Importing the dataset and Loading   
 2. **Data Cleaning:**  
    - Handling missing values  
    - Removing duplicates  
@@ -47,13 +46,14 @@ This project aims to answer the following questions:
    - Bar plots, histograms, box plots, heatmaps  
    - Correlation analysis between key variables  
 5. **Insights & Interpretation:**  
-   - Drawing conclusions from visual trends and statistical summaries  
+   - Drawing conclusions from visual trends and statistical summaries
 
 ---
 
 ## 💡 Insights Gained
 - **Paid vs Free Courses:**  
-  Paid courses generally have **higher enrollments and better ratings** than free courses.  
+  Paid courses generally have **higher enrollments and better ratings** than free courses.
+  ![image]()
 - **Course Levels:**  
   Beginner-level courses attract the **highest number of students**, while Expert-level courses have limited engagement.  
 - **Time Trends:**  
@@ -63,16 +63,11 @@ This project aims to answer the following questions:
 - **Ratings:**  
   Higher-rated courses tend to have **more enrollments and reviews**, suggesting trust and quality correlation.  
 
----
 
-## 📈 Future Scope
-- Apply **machine learning models** to predict enrollments or ratings based on course attributes.  
-- Develop **interactive dashboards** using Power BI, Tableau, or Plotly Dash.  
-- Analyze **instructor performance** and their contribution to course success.
 
 ---
 
 ## 🧠 Author
 **Jasraj Singh**  
 Data Analyst | Python | SQL | Tableau | Machine Learning  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/jasrajsingh82) | [GitHub](https://github.com/jasraj104)
