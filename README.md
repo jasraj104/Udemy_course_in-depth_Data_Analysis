@@ -44,7 +44,8 @@ This project aims to answer the following questions:
    - Time-based trends in course publishing  
 4. **Data Visualization:**  
    - Bar plots, histograms, box plots, heatmaps  
-   - Correlation analysis between key variables  
+   - Correlation analysis between key variables
+     
 5. **Insights & Interpretation:**  
    - Drawing conclusions from visual trends and statistical summaries
 
@@ -53,15 +54,12 @@ This project aims to answer the following questions:
 ## 💡 Insights Gained
 - **Paid vs Free Courses:**  
   Paid courses generally have **higher enrollments and better ratings** than free courses.
-  ![image]()
 - **Course Levels:**  
   Beginner-level courses attract the **highest number of students**, while Expert-level courses have limited engagement.  
 - **Time Trends:**  
   The number of courses published increased **sharply between 2015–2017**, indicating rapid growth in e-learning.  
 - **Pricing:**  
   Most courses are priced between **$20–$200**, and price alone doesn’t determine success.  
-- **Ratings:**  
-  Higher-rated courses tend to have **more enrollments and reviews**, suggesting trust and quality correlation.  
 
 
 
