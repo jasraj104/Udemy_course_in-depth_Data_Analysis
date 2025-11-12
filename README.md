@@ -52,13 +52,22 @@ This project aims to answer the following questions:
 ---
 
 ## 💡 Insights Gained
-- **Paid vs Free Courses:**  
+- **Paid vs Free Courses:**
+  
+  <img width="721" height="470" alt="fREE VS PAID" src="https://github.com/user-attachments/assets/b9d51f22-f7fa-404a-bf01-e236a4d993f6" />
+
   Paid courses generally have **higher enrollments and better ratings** than free courses.
 - **Course Levels:**  
   Beginner-level courses attract the **highest number of students**, while Expert-level courses have limited engagement.  
-- **Time Trends:**  
+- **Time Trends:**
+
+  <img width="859" height="470" alt="Time trends" src="https://github.com/user-attachments/assets/89a9b9cc-bb51-4f81-b8fe-e2299f427233" />
+
   The number of courses published increased **sharply between 2015–2017**, indicating rapid growth in e-learning.  
-- **Pricing:**  
+- **Pricing:**
+
+   <img width="760" height="461" alt="Price" src="https://github.com/user-attachments/assets/ad17c1ab-29c4-412c-90de-da97ec951b1a" />
+
   Most courses are priced between **$20–$200**, and price alone doesn’t determine success.  
 
 
